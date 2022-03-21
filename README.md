@@ -1,4 +1,6 @@
-# Crochet-All-Day
+# Crochet-All-Day - An e-commerce site for my favorite crochetier
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app --example with-firebase-hosting`](https://github.com/vercel/next.js/tree/canary/examples/with-firebase-hosting).
 
 ## Getting Started
